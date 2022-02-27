@@ -2,8 +2,13 @@
  
 <p align="center">I am a Software Engineer Backend</p>
 
+<div align="center">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+<p>Perfectly balanced</p>
+</div>
+
 <p align="center" width="100%">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white=center" >https://www.linkedin.com/in/arif-muhammad-armuhh/)
+    <img src="" >https://www.linkedin.com/in/arif-muhammad-armuhh/)
 </p>
 
 
