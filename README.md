@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![Top Langs]([![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=armuh16&repo=github-readme-stats)](https://github.com/armuh16/book_user-api))
 
 <!--  Grafik -->
-<!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfiancikoa&custom_title=alfiancikoa%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
+<!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=armuh16&custom_title=armuh16%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 
 ## 📧 Contact me
 
