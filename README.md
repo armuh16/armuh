@@ -2,12 +2,6 @@
  
 <p align="center">I am a Software Engineer Backend</p>
 
-<div align="center">
-<p>Contact me</p>
- <a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
-
-</div>
-
 <!--
 **arifmuhammad/arifmuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -61,6 +55,14 @@ Here are some ideas to get you started:
 <!--  Grafik -->
 <!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=armuh16&custom_title=armuh16%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 
-## 📧 Contact me
+## Contact me
 
+<div align="center">
+
+ <a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  
 [![Gmail: Armuh](https://img.shields.io/badge/-Muhammad%20Arif-white?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjmjRlSpLttDDmhqnRQTQVTSQCjFvQxCSSqGDHvQjrjJvvzKMvnlWTrWwkcGdSzfJPXnV) [![visitors](https://komarev.com/ghpvc/?username=armuh&style=flat-square)](https://github.com/armuh16)
+</div>
+
+
+
