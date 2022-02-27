@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 <br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armuh&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs]([![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=armuh16&repo=github-readme-stats)](https://github.com/armuh16/github-readme-stats))
 
 <!--  Grafik -->
 <!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfiancikoa&custom_title=alfiancikoa%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
