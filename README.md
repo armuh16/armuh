@@ -4,7 +4,8 @@
 
 <div align="center">
 <p>Contact me</p>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arif-muhammad-armuhh/)
+ <a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank">Google</a>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
 </div>
 
 <!--
@@ -61,6 +62,5 @@ Here are some ideas to get you started:
 <!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=armuh16&custom_title=armuh16%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 
 ## 📧 Contact me
-<div align="center">
+
 [![Gmail: Armuh](https://img.shields.io/badge/-Muhammad%20Arif-white?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjmjRlSpLttDDmhqnRQTQVTSQCjFvQxCSSqGDHvQjrjJvvzKMvnlWTrWwkcGdSzfJPXnV) [![visitors](https://komarev.com/ghpvc/?username=armuh&style=flat-square)](https://github.com/armuh16)
- </div>
