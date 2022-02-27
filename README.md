@@ -4,8 +4,8 @@
 
 <div align="center">
 <p>Contact me</p>
- <a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank">Google</a>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+ <a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
+
 </div>
 
 <!--
