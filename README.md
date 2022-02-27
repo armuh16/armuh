@@ -52,8 +52,6 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armuh16&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"</a>
 </div>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armuh16&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 
 <!--  Grafik -->
