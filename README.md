@@ -3,7 +3,7 @@
 <p align="center">I am a Software Engineer Backend</p>
 
 <p align="center" width="100%">
-    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white=center" />](https://www.linkedin.com/in/arif-muhammad-armuhh/)
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white=center" />](https://www.linkedin.com/in/arif-muhammad-armuhh/)
 </p>
 
 
