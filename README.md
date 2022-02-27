@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 ## Contact me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a> [![Gmail: Armuh](https://img.shields.io/badge/-Muhammad%20Arif-white?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjmjRlSpLttDDmhqnRQTQVTSQCjFvQxCSSqGDHvQjrjJvvzKMvnlWTrWwkcGdSzfJPXnV) [![visitors](https://komarev.com/ghpvc/?username=armuh&style=flat-square)](https://github.com/armuh16)
+<a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjmjRlSpLttDDmhqnRQTQVTSQCjFvQxCSSqGDHvQjrjJvvzKMvnlWTrWwkcGdSzfJPXnV" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Arif-white?style=flat&logo=gmail"</a> 
+ [![Gmail: Armuh]()]() [![visitors](https://komarev.com/ghpvc/?username=armuh&style=flat-square)](https://github.com/armuh16)
 </div>
 
 
