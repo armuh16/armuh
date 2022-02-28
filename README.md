@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 
  
 <div align="center">
-<a target="_blank"><img src="https://github.com/armuh16/armuh/blob/main/github-contribution-grid-snake.gif"</a>
+<h2> Just a Snake 🐍 Eating away my Contributions.. </h2>
+<a target="_blank"><img src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg"</a>
 </div>
  
  
@@ -73,6 +74,6 @@ Here are some ideas to get you started:
 </div>
 
  ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+![snake gif]()
 
 
