@@ -57,13 +57,6 @@ Here are some ideas to get you started:
 <!--  Grafik -->
 <!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=armuh16&custom_title=armuh16%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 
-<br>
-
-<div align="center">
- <p> Contact me </p>
-<a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
-
  <br>
 
  
@@ -71,6 +64,13 @@ Here are some ideas to get you started:
 <a target="_blank"><img src="https://github.com/armuh16/armuh/blob/main/github-contribution-grid-snake.gif"</a>
 </div>
  
+ 
+<br>
+
+<div align="center">
+ <p> Contact me </p>
+<a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div>
 
 
 
