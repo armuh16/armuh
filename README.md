@@ -1,15 +1,11 @@
 <h1 align="center"> Hi! I'm Arif Muhammad <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
- 
-<p align="center">I am a Software Engineer Backend</p>
-
-
 
 <div align="center">
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+Ask me anything <a href="https://github.com/armuh16/armuh16/issues"><b>here</b></a><br>
+or <a href="mailto:muhammadarif.aq@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
@@ -86,5 +82,13 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
+<div align="center">
 
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/arifmhamdd" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://dev.to/armuh16" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+</div>
 
