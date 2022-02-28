@@ -67,6 +67,11 @@ Here are some ideas to get you started:
  <br>
  <br>
  
+ <div align="center">
+ <p> Contact me </p>
+<a target="_blank"><img src="https://github.com/armuh16/armuh/blob/main/github-contribution-grid-snake.gif"</a>
+</div>
+ 
  ![powen's Commit Snake](https://github.com/armuh16/armuh/blob/main/github-contribution-grid-snake.gif)
 
 
