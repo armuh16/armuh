@@ -64,8 +64,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
+ <br>
+ <br>
  
- ![powen's Commit Snake](https://github.com/powenn/powenn/blob/output/github-contribution-grid-snake.gif)
+ ![powen's Commit Snake](https://github.com/armuh16/armuh/blob/main/github-contribution-grid-snake.gif)
 
 
 
