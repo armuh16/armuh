@@ -73,7 +73,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
- ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif]()
 
 
