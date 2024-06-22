@@ -125,22 +125,22 @@ Ask me anything <a href="https://github.com/yourusername/yourusername/issues"><b
 
 <p align="left">
 <a href="https://github.com/yourusername">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?armuh16=armuh16&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=armuh16&theme=gruvbox&hide_border=true" />
 </a>
 </p>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?armuh16=armuh16&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
 </div>
 
 <br>
 
 <div align="center">
 <h2> Just a Snake 🐍 Eating away my Contributions.. </h2>
-<a target="_blank"><img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg"></a>
+<a target="_blank"><img src="https://raw.githubusercontent.com/amruh16/armuh16/output/github-contribution-grid-snake.svg"></a>
 </div>
 
 <br>
@@ -148,8 +148,8 @@ Ask me anything <a href="https://github.com/yourusername/yourusername/issues"><b
 <div align="center">
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://medium.com/@yourmedium" target="_blank"><img src="https://img.shields.io/badge/Medium-%23E4405F.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
-<a href="https://dev.to/yourusername" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://medium.com/@Darkshad0w" target="_blank"><img src="https://img.shields.io/badge/Medium-%23E4405F.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://dev.to/armuh16" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
 
