@@ -75,6 +75,35 @@ Here are some ideas to get you started:
 
 <i>Follow me around the web:</i><br>
 
+
+### Hey 👋, I'm appleboy
+
+[![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/appleboy)
+
+- 🔭 I’m currently working on Mediatek as Software Enginner
+- Check my 🖋 [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=appleboy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=appleboy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=appleboy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=appleboy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=appleboy&theme=github)
+
+<!--
+**appleboy/appleboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <a href="https://www.linkedin.com/in/arif-muhammad-armuhh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/arifmhamdd" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://dev.to/armuh16" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
