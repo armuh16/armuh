@@ -124,7 +124,7 @@ Ask me anything <a href="https://github.com/yourusername/yourusername/issues"><b
 <h3 align="left">GitHub Stats</h3>
 
 <p align="left">
-<a href="https://github.com/yourusername">
+<a href="https://github.com/armuh16">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?armuh16=armuh16&show_icons=true&theme=gruvbox&hide_border=true" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=armuh16&theme=gruvbox&hide_border=true" />
 </a>
