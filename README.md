@@ -3,7 +3,7 @@
 <div align="center">
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
-Ask me anything <a href="mailto:muhammadarif.aq@gmail.com"><b>email</b></a> me.
+Ask me anything <a href="mailto:muhammadarif.aq@gmail.com"><b>Email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 </div>
